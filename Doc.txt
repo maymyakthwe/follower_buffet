@@ -1,0 +1,3 @@
+--> For gradient background you need to add plugin in tailwind.config
+
+--> background gradient tailwind plugin

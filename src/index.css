@@ -9,3 +9,6 @@ html,body,#root{
   outline: none;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
